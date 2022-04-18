@@ -24,14 +24,14 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 ### Talks given
 
 - "Joint moments of characteristic polynomials
-of random unitary matrices", Oxford Junior number theory seminar (March 2022). Slides.
+of random unitary matrices", Oxford Junior number theory seminar (March 2022). [Slides](https://a-soor.github.io/talks/junior_number_theory_seminar_arun_28th_feb.pdf).
 
 - "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford (February 2022). Notes.
 
 - "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022). Notes.
 
 - "Origami with conformal and helical
-symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). Slides.
+symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slides](https://a-soor.github.io//talks/SIAM_MS20_presentation.pdf).
 
 ### Teaching
 
