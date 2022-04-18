@@ -1,12 +1,10 @@
 ## Arun Soor's Webpage
 
-I am a DPhil (Maths) student at in the Mathematical Institute, University of Oxford. 
+I am a DPhil (Maths) student at in the [Mathematical Institute](https://www.maths.ox.ac.uk/), University of Oxford.
 
-My supervisor is Prof. Konstantin Ardakov. 
+My supervisor is Prof. Konstantin Ardakov. I am interested in representations arising from the cohomology of modular curves, and using geometric representation theory to understand them.
 
 I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the representation theory of the symmetric group" was supervised by Prof. Kevin McGerty.
-
-I am interested in representations arising from the cohomology of modular curves, and using geometric representation theory to understand them.
 
 
 ### Publications
@@ -21,38 +19,28 @@ I am interested in representations arising from the cohomology of modular curves
 
 ### News Articles
 
-- H. Liu, P. Plucinsky, F. Feng, A.Soor, and R. D. James. [Origami and the structure of materials](https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials). SIAM news January/February 2022.
+- H. Liu, P. Plucinsky, F. Feng, A. Soor, and R. D. James. [Origami and the structure of materials](https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials). SIAM news January/February 2022.
 
 ### Talks given
 
-- "Origami with conformal and helical
-symmetry", a 20-minute talk I gave at the SIAM MS21 conference. Slides.
-
 - "Joint moments of characteristic polynomials
-of random unitary matrices", Oxford Junior number theory seminar. Slides.
+of random unitary matrices", Oxford Junior number theory seminar (March 2022). Slides.
 
-- "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford. Notes.
+- "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford (February 2022). Notes.
 
-- "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford. Notes.
+- "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022). Notes.
+
+- "Origami with conformal and helical
+symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). Slides.
 
 ### Teaching
 
 - TA for B3.4 Algebraic Number Theory, HT22.
 - TA for B2.1 Introduction to Representation Theory, MT21.
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Experience
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- From 2020-2021 I was the president of the [Invariants](https://www.invariants.org.uk/), Oxford's student maths society.
 
 [Link](url) and ![Image](src)
 ```
