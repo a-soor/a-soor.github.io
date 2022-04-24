@@ -41,3 +41,7 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Experience
 
 - From 2020-2021 I was the president of the [Invariants](https://www.invariants.org.uk/), Oxford's student maths society.
+
+### Miscellaneous
+
+Origami: [Lion](a-soor.github.io/misc/lion-diagram-fixed.pd), [Collie](a-soor.github.io/misc/302_soor_collie.pdf), [Spiral](https://www.maths.ox.ac.uk/node/39181).
