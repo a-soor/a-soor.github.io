@@ -13,7 +13,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 - T. Assiotis, B. Bedert, M. A. Gunes, and A. Soor. [On a distinguished family of random variables and Painlevé equations.](https://msp.org/pmp/2021/2-3/p05.xhtml) _Probability and Mathematical Physics_, 2:613–642, 2021. [arxiv:2009.04760](https://arxiv.org/abs/2009.04760).
 
-- T. Assiotis, M. A. Gunes, and A. Soor. Convergence and an explicit formula for the joint moments of the circular Jacobi β-ensemble characteristic polynomial. _Preprint (submitted)_, 2021. [arXiv:2110.05406](https://arxiv.org/abs/2110.05406).
+- T. Assiotis, M. A. Gunes, and A. Soor. [Convergence and an explicit formula for the joint moments of the circular Jacobi β-ensemble characteristic polynomial.](https://link.springer.com/article/10.1007/s11040-022-09427-4) _Mathematical Physics Analysis and Geometry_, 2021. [arXiv:2110.05406](https://arxiv.org/abs/2110.05406).
 
 - P. Velvaluri, A. Soor, P. Plucinsky, R. Lima de Miranda, R. D. James, and E. Quandt. [Origami-inspired thin-film shape memory alloy devices](https://www.nature.com/articles/s41598-021-90217-3). Scientific Reports, 11(1):10988, 2021.
 
@@ -35,8 +35,9 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 
 ### Teaching
 
-- TA for B3.4 Algebraic Number Theory, HT22.
-- TA for B2.1 Introduction to Representation Theory, MT21.
+- TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
+- HT22: TA for B3.4 Algebraic Number Theory.
+- MT21: TA for B2.1 Introduction to Representation Theory.
 
 ### Experience
 
@@ -44,4 +45,4 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 
 ### Miscellaneous
 
-Origami: [Lion](a-soor.github.io/misc/lion-diagram-fixed.pd), [Collie](a-soor.github.io/misc/302_soor_collie.pdf), [Spiral](https://www.maths.ox.ac.uk/node/39181).
+Origami: [Lion](a-soor.github.io/misc/lion-diagram-fixed.pdf), [Collie](a-soor.github.io/misc/302_soor_collie.pdf), [Spiral](https://www.maths.ox.ac.uk/node/39181).
