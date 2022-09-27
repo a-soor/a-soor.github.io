@@ -34,7 +34,7 @@ of random unitary matrices", Oxford Junior number theory seminar (March 2022). [
 
 - "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford (February 2022). Notes.
 
-- "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022). Notes.
+- "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/p_adic_Hodge_Tate_talk%20(2).pdf).
 
 - "Origami with conformal and helical
 symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slides](https://a-soor.github.io//talks/SIAM_MS20_presentation.pdf).
