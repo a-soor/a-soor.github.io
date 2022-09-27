@@ -51,4 +51,4 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 
 ### Miscellaneous
 
-Origami: [Lion](a-soor.github.io/misc/lion-diagram-fixed.pdf), [Collie](a-soor.github.io/misc/302_soor_collie.pdf), [Spiral](https://www.maths.ox.ac.uk/node/39181).
+Origami: [Lion](https://a-soor.github.io/misc/lion-diagram-fixed.pdf), [Collie](https://a-soor.github.io/misc/302_soor_collie.pdf), [Spiral](https://www.maths.ox.ac.uk/node/39181).
