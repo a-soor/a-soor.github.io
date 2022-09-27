@@ -32,7 +32,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 - "Joint moments of characteristic polynomials
 of random unitary matrices", Oxford Junior number theory seminar (March 2022). [Slides](https://a-soor.github.io/talks/junior_number_theory_seminar_arun_28th_feb.pdf).
 
-- "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford (February 2022). Notes.
+- "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford (February 2022).
 
 - "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/p_adic_Hodge_Tate_talk%20(2).pdf).
 
@@ -44,6 +44,11 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 - TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
 - HT22: TA for B3.4 Algebraic Number Theory.
 - MT21: TA for B2.1 Introduction to Representation Theory.
+
+### Conferences
+
+- [Topology and Arithmetic around the Langlands Programme](https://langlands2022.raum-brothers.eu/), 7-11 June 2022, Stockholm University, Stockholm, Sweden.
+- [Arizona Winter School 2022, Automorphic forms beyond GL_2](https://swc-math.github.io/aws/2022/index.html), 5-9 March 2022, University of Arizona, Tucson, Arizona. 
 
 ### Experience
 
