@@ -27,7 +27,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Talks given
 
-- I gave a series of talks about locally analytic vectors of completed cohomology from May-June 2022. Notes.
+- I gave a series of talks about locally analytic vectors of completed cohomology from May-June 2022. [Notes](https://a-soor.github.io/talks/locally%20analytic%20website%20version.pdf).
 
 - "Joint moments of characteristic polynomials
 of random unitary matrices", Oxford Junior number theory seminar (March 2022). [Slides](https://a-soor.github.io/talks/junior_number_theory_seminar_arun_28th_feb.pdf).
