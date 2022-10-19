@@ -40,7 +40,9 @@ of random unitary matrices", Oxford junior number theory (March 2022). [Slides](
 symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slides](https://a-soor.github.io//talks/SIAM_MS20_presentation.pdf).
 
 ### Teaching
+- [Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
+- MT22: College tutorials (Magdalen) for A2 Metric spaces & Complex analysis. TA for C3.6 Modular Forms, TA for B3.1 Galois Theory.
 - TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
 - HT22: TA for B3.4 Algebraic Number Theory.
 - MT21: TA for B2.1 Introduction to Representation Theory.
