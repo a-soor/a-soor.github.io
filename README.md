@@ -27,7 +27,9 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Talks given
 
-- "Eichler-Shimura isomorphism". Galois representations and modularity reading group, November 2022. [Notes](https://a-soor.github.io/talks/eichler_shimura_isomorphism_notes.pdf).
+- "Divisors on Y/φ^ℤ". Fargues-Fontaine curve study group, Oxford (November 2022).
+
+- "Eichler-Shimura isomorphism". Galois representations and modularity reading group, Oxford (November 2022). [Notes](https://a-soor.github.io/talks/eichler_shimura_isomorphism_notes.pdf).
 
 - I gave a series of talks about locally analytic vectors of completed cohomology from May-June 2022. [Notes](https://a-soor.github.io/talks/locally%20analytic%20website%20version.pdf).
 
