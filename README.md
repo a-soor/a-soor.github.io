@@ -46,7 +46,7 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Teaching
 [Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
-- HT23: College turorials (Magdelen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
+- HT23: College turorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
 - MT22: College tutorials (Magdalen) for A2 Metric spaces & Complex analysis. TA for C3.6 Modular Forms, TA for B3.1 Galois Theory.
 - TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
 - HT22: TA for B3.4 Algebraic Number Theory.
