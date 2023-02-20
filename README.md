@@ -27,6 +27,10 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Talks given
 
+- "Localisation of locally analytic representations". Oxford junior algebra (February 2022).
+
+- "Period morphism and tower". Rapoport-Zink spaces study group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/Period_morphism_and_rigid_tower.pdf
+
 - "Divisors on Y/φ^ℤ". Fargues-Fontaine curve study group, Oxford (November 2022).
 
 - "Eichler-Shimura isomorphism". Galois representations and modularity reading group, Oxford (November 2022). [Notes](https://a-soor.github.io/talks/eichler_shimura_isomorphism_notes.pdf).
@@ -54,6 +58,7 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 
 ### Conferences
 
+- [Number theory meets p-adic representations, A conference on the occasion of Peter Schneider’s 70th birthday](https://www.uni-muenster.de/MathematicsMuenster/events/2023/numbertheory.shtml), 13-17 February 2023, Münster, Germany.
 - [Topology and Arithmetic around the Langlands Programme](https://langlands2022.raum-brothers.eu/), 7-11 June 2022, Stockholm University, Stockholm, Sweden.
 - [Arizona Winter School 2022, Automorphic forms beyond GL_2](https://swc-math.github.io/aws/2022/index.html), 5-9 March 2022, University of Arizona, Tucson, Arizona. 
 
