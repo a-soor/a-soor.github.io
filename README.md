@@ -29,7 +29,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 - "Localisation of locally analytic representations". Oxford junior algebra (February 2022).
 
-- "Period morphism and tower". Rapoport-Zink spaces study group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/Period_morphism_and_rigid_tower.pdf
+- "Period morphism and tower". Rapoport-Zink spaces study group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/Period_morphism_and_rigid_tower.pdf).
 
 - "Divisors on Y/φ^ℤ". Fargues-Fontaine curve study group, Oxford (November 2022).
 
