@@ -27,6 +27,8 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Talks given
 
+- "Some perspectives on differential operators". Geometric Langlands study group, Oxford (May 2022). [Notes](https://a-soor.github.io/talks/geom_langlands_talk_Dmodules.pdf).
+
 - "Localisation of locally analytic representations". Oxford junior algebra (February 2022).
 
 - "Period morphism and tower". Rapoport-Zink spaces study group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/Period_morphism_and_rigid_tower.pdf).
@@ -50,6 +52,7 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Teaching
 [Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
+- TT23: College tutorials (Magdalen) for ASO Group theory, ASO Multidimensional Analysis, Prelims Constructive Mathematics
 - HT23: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
 - MT22: College tutorials (Magdalen) for A2 Metric spaces & Complex analysis. TA for C3.6 Modular Forms, TA for B3.1 Galois Theory.
 - TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
