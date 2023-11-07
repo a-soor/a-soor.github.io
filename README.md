@@ -6,6 +6,9 @@ My supervisor is Prof. Konstantin Ardakov. I am interested in representations ar
 
 I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the representation theory of the symmetric group" was supervised by Prof. Kevin McGerty.
 
+### Preprints
+
+- A. Soor. Quasicoherent sheaves for dagger analytic geometry, 2023. [arXiv:2311.03101](https://arxiv.org/abs/2311.03101).
 
 ### Publications
 
