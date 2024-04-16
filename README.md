@@ -30,7 +30,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Study group talks, etc. (Use notes at your own risk). 
 
-- "(\varphi, \Gamma)-modules". Montreal functor study group, Oxford (March 2024). [Notes](https://github.com/a-soor/a-soor.github.io/talks/phi_gamma_modules.pdf).
+- "(\varphi, \Gamma)-modules". Montreal functor study group, Oxford (March 2024). [Notes](https://a-soor.github.io/talks/phi_gamma_modules.pdf).
 
 - "Galois representation associated to a weight 2 modular form". Global reciprocity study group, Oxford (March 2024). [Notes](https://a-soor.github.io/talks/eichler_shimura_congruence_relation.pdf). 
 
