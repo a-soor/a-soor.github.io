@@ -26,7 +26,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Seminars
 
-- Together with [James Taylor](https://sites.google.com/view/taylorjames) and [Finn Wiersig](http://finnwiersig.de/) I am organising a "p-adic seminar" in Oxford from May 2022 onwards.
+- In the academic year 2023-2024, I am co-organizing the Oxford Junior Number Theory Seminar, together with [James Taylor](https://sites.google.com/view/taylorjames) and [Zachary Feng](https://zachary-feng.github.io/). 
 
 ### Study group talks, etc. (Use notes at your own risk). 
 
@@ -59,6 +59,8 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Teaching
 [Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
+- HT24: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
+- MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry
 - TT23: College tutorials (Magdalen) for ASO Group theory, ASO Multidimensional Analysis, Prelims Constructive Mathematics
 - HT23: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
 - MT22: College tutorials (Magdalen) for A2 Metric spaces & Complex analysis. TA for C3.6 Modular Forms, TA for B3.1 Galois Theory.
@@ -66,8 +68,9 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 - HT22: TA for B3.4 Algebraic Number Theory.
 - MT21: TA for B2.1 Introduction to Representation Theory.
 
-### Conferences
+### Conferences attended
 
+- [The Automorphic Side of the p-adic Langlands Programme](https://summerschool2023.uni-wuppertal.de/en/) 31 July 2023-4 August 2023, Wuppertal, Germany.
 - [Number theory meets p-adic representations, A conference on the occasion of Peter Schneider’s 70th birthday](https://www.uni-muenster.de/MathematicsMuenster/events/2023/numbertheory.shtml), 13-17 February 2023, Münster, Germany.
 - [Topology and Arithmetic around the Langlands Programme](https://langlands2022.raum-brothers.eu/), 7-11 June 2022, Stockholm University, Stockholm, Sweden.
 - [Arizona Winter School 2022, Automorphic forms beyond GL_2](https://swc-math.github.io/aws/2022/index.html), 5-9 March 2022, University of Arizona, Tucson, Arizona. 
