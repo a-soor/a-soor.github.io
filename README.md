@@ -28,7 +28,11 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 - Together with [James Taylor](https://sites.google.com/view/taylorjames) and [Finn Wiersig](http://finnwiersig.de/) I am organising a "p-adic seminar" in Oxford from May 2022 onwards.
 
-### Talks given
+### Study group talks, etc. (Use notes at your own risk). 
+
+- "(\varphi, \Gamma)-modules". Montreal functor study group, Oxford (March 2023). [Notes](https://github.com/a-soor/a-soor.github.io/talks/phi_gamma_modules.pdf).
+
+- "Galois representation associated to a weight 2 modular form". Global reciprocity study group, Oxford (March 2023). [Notes](https://a-soor.github.io/talks/eichler_shimura_congruence_relation.pdf). 
 
 - "Some perspectives on differential operators". Geometric Langlands study group, Oxford (May 2023). [Notes](https://a-soor.github.io/talks/geom_langlands_talk_Dmodules.pdf).
 
