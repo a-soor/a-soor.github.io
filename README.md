@@ -4,9 +4,13 @@ I am a DPhil (Maths) student at in the [Mathematical Institute](https://www.math
 
 My supervisor is Prof. Konstantin Ardakov. I am interested in representations arising from the cohomology of modular curves, and using geometric representation theory to understand them.
 
+I am currently in the 4th and final year of my DPhil. *I am on the job market for post-doc positions starting in Autumn 2025*. 
+
 I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the representation theory of the symmetric group" was supervised by Prof. Kevin McGerty.
 
 ### Preprints
+
+- A. Soor. A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties, 2024. [arXiv:2409.07592](https://arxiv.org/abs/2409.07592).
 
 - A. Soor. Quasicoherent sheaves for dagger analytic geometry, 2023. [arXiv:2311.03101](https://arxiv.org/abs/2311.03101).
 
