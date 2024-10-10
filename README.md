@@ -44,20 +44,20 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 - "Localisation of locally analytic representations". Oxford junior algebra (February 2023).
 
-- "Period morphism and tower". Rapoport-Zink spaces study group, Oxford (February 2023). [Notes](https://a-soor.github.io/talks/Period_morphism_and_rigid_tower.pdf).
+- "Period morphism and tower". Rapoport-Zink spaces study group, Oxford (February 2023).
 
 - "Divisors on Y/φ^ℤ". Fargues-Fontaine curve study group, Oxford (November 2022).
 
 - "Eichler-Shimura isomorphism". Galois representations and modularity reading group, Oxford (November 2022). [Notes](https://a-soor.github.io/talks/eichler_shimura_isomorphism_notes.pdf).
 
-- I gave a series of talks about locally analytic vectors of completed cohomology from May-June 2022. [Notes](https://a-soor.github.io/talks/locally%20analytic%20website%20version.pdf).
+- I gave a series of talks about locally analytic vectors of completed cohomology from May-June 2022.
 
 - "Joint moments of characteristic polynomials
 of random unitary matrices", Oxford junior number theory (March 2022). [Slides](https://a-soor.github.io/talks/junior_number_theory_seminar_arun_28th_feb.pdf).
 
 - "Weil groups, Weil-Deligne representations and class field theory". Langlands reading group, Oxford (February 2022).
 
-- "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022). [Notes](https://a-soor.github.io/talks/p_adic_Hodge_Tate_talk%20(2).pdf).
+- "Hodge-Tate representations". p-adic Hodge theory reading group, Oxford (February 2022).
 
 - "Origami with conformal and helical
 symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slides](https://a-soor.github.io//talks/SIAM_MS20_presentation.pdf).
