@@ -6,7 +6,7 @@ My supervisor is Prof. Konstantin Ardakov.
 
 I am currently in the 4th and final year of my DPhil. *I am on the job market for post-doc positions starting in Autumn 2025*. 
 
-You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). 
+You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated October 2024).
 
 
 ### Preprints
