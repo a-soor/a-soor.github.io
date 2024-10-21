@@ -2,11 +2,12 @@
 
 I am a DPhil (Maths) student at in the [Mathematical Institute](https://www.maths.ox.ac.uk/), University of Oxford.
 
-My supervisor is Prof. Konstantin Ardakov. I am interested in representations arising from the cohomology of modular curves, and using geometric representation theory to understand them.
+My supervisor is Prof. Konstantin Ardakov.
 
 I am currently in the 4th and final year of my DPhil. *I am on the job market for post-doc positions starting in Autumn 2025*. 
 
-I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the representation theory of the symmetric group" was supervised by Prof. Kevin McGerty.
+You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). 
+
 
 ### Preprints
 
@@ -30,7 +31,7 @@ I did my BA and MMath at Oxford. My part C dissertation "Crystal Graphs and the 
 
 ### Seminars
 
-- In the academic year 2023-2024, I am co-organizing the Oxford Junior Number Theory Seminar, together with [James Taylor](https://sites.google.com/view/taylorjames) and [Zachary Feng](https://zachary-feng.github.io/). 
+- In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with [James Taylor](https://sites.google.com/view/taylorjames) and [Zachary Feng](https://zachary-feng.github.io/). 
 
 ### Study group talks, etc. (Use notes at your own risk). 
 
