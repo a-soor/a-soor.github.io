@@ -31,7 +31,7 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Seminars
 
-- In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with [James Taylor](https://sites.google.com/view/taylorjames) and [Zachary Feng](https://zachary-feng.github.io/). 
+- In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with Kate Thomas. 
 
 ### Study group talks, etc. (Use notes at your own risk). 
 
