@@ -66,6 +66,8 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Teaching
 [Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
+- MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry.
+- TT24: College tutorials (Magdalen) for Prelims Constructive Mathematics.
 - HT24: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
 - MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry
 - TT23: College tutorials (Magdalen) for ASO Group theory, ASO Multidimensional Analysis, Prelims Constructive Mathematics
