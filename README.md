@@ -33,7 +33,17 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with Kate Thomas. 
 
-### Study group talks, etc. (Use notes at your own risk). 
+### Talks, inc. study group talks (use notes at your own risk).  
+
+- Upcoming: UT Austin Geometry seminar (March 2025), U. Michigan GLNT seminar (March 2025), ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpsbach 2025 workshop (June 2025). 
+
+- "Six-functor formalisms and derived geometry". Warwick Junior Algebraic Geometry Seminar, Warwick (January 2025). 
+
+- "A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties". Beijing Institute for Mathematical Sciences and Applications (BIMSA) Algebraic Geometry seminar, Beijing (online), (January 2025). 
+
+- "What is a six-functor formalism and how do we construct one?" Hodge Club, Edinburgh Hodge Institute (November 2024). 
+
+- "Hodge Structures and Shimura varieties". Shimura varieties study group, Oxford (November 2024). 
 
 - "A six−functor formalism for analytic $𝒟$−modules on rigid−analytic varieties". Seminario de Geometría No Conmutativa del Atlántico Sur, Universidad de Buenos Aires, (June 2024). [Slides](https://a-soor.github.io/talks/South_Atlantic_Noncommutative_Geometry_Seminar.pdf) [Video](https://youtu.be/8MtFcThE_4E?si=gbNfdy_MEhKGZSS_). 
 
