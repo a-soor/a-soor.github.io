@@ -39,13 +39,13 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - "Six-functor formalisms and derived geometry". Warwick Junior Algebraic Geometry Seminar, Warwick (January 2025). 
 
-- "A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties". Beijing Institute for Mathematical Sciences and Applications (BIMSA) Algebraic Geometry seminar, Beijing (online), (January 2025). 
+- "A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties". Beijing Institute for Mathematical Sciences and Applications (BIMSA) Algebraic Geometry seminar, Beijing (online), (January 2025). [Slides](https://a-soor.github.io/talks/BIMSA_AG_seminar.pdf) 
 
 - "What is a six-functor formalism and how do we construct one?" Hodge Club, Edinburgh Hodge Institute (November 2024). 
 
 - "Hodge Structures and Shimura varieties". Shimura varieties study group, Oxford (November 2024). 
 
-- "A six−functor formalism for analytic $𝒟$−modules on rigid−analytic varieties". Seminario de Geometría No Conmutativa del Atlántico Sur, Universidad de Buenos Aires, (June 2024). [Slides](https://a-soor.github.io/talks/South_Atlantic_Noncommutative_Geometry_Seminar.pdf) [Video](https://youtu.be/8MtFcThE_4E?si=gbNfdy_MEhKGZSS_). 
+- "A six−functor formalism for analytic $𝒟$−modules on rigid−analytic varieties". Seminario de Geometría No Conmutativa del Atlántico Sur, Universidad de Buenos Aires, (June 2024). [Video](https://youtu.be/8MtFcThE_4E?si=gbNfdy_MEhKGZSS_). 
 
 - "(\varphi, \Gamma)-modules". Montreal functor study group, Oxford (March 2024). [Notes](https://a-soor.github.io/talks/phi_gamma_modules.pdf).
 
