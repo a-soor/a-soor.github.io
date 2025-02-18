@@ -4,7 +4,7 @@ I am a DPhil (Maths) student at in the [Mathematical Institute](https://www.math
 
 My supervisor is Prof. Konstantin Ardakov.
 
-I am currently in the 4th and final year of my DPhil. *I am on the job market for post-doc positions starting in Autumn 2025*. 
+I am currently in the 4th and final year of my DPhil.
 
 You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated October 2024).
 
@@ -76,6 +76,7 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Teaching
 [Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
+- HT25: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics.
 - MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry.
 - TT24: College tutorials (Magdalen) for Prelims Constructive Mathematics.
 - HT24: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
