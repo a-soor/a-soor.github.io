@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?> 
+<?xml-stylesheet href="BarrBeckFamilies.css" type="text/css"?> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218.13725pt" height="61.65364pt" viewBox="-108.6255 -31.22055 218.13725 61.65364 "> 
+<g transform="translate(0,30.43309 ) scale(1,-1) translate(0,31.22055 )"> 
+                                 <g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g transform="translate(-108.6255,-21.32755)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(108.6255,0)" text-anchor="middle"  font-size="10"> 
+                         <g transform="translate(-78.57828,0.0)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(78.57828,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mo 
+class="MathClass-open">(</mo><mi 
+>Δ</mi><tspan baseline-shift="sub"><mn>1</mn></tspan> <mo 
+class="MathClass-bin">×</mo> <mi 
+>Δ</mi><tspan baseline-shift="sub"><mstyle mathvariant="sans-serif"><mi 
+>o</mi><mi 
+>p</mi></mstyle></tspan><mo 
+class="MathClass-close">)</mo><munder class="msub"><mrow 
+><mo  
+>∐</mo>
+  </mrow><mrow 
+><mo 
+class="MathClass-open">{</mo><mn>1</mn><mo 
+class="MathClass-close">}</mo><mo 
+class="MathClass-bin">×</mo><mi 
+>Δ</mi><tspan baseline-shift="sub"><mstyle mathvariant="sans-serif"><mi 
+>o</mi><mi 
+>p</mi></mstyle></tspan></mrow></munder 
+><mo 
+class="MathClass-open">(</mo><mo 
+class="MathClass-open">{</mo><mn>1</mn><mo 
+class="MathClass-close">}</mo><mo 
+class="MathClass-bin">×</mo> <mo 
+class="MathClass-open">(</mo><mi 
+>Δ</mi><tspan baseline-shift="sub"><mstyle mathvariant="sans-serif"><mi 
+>o</mi><mi 
+>p</mi></mstyle></tspan><mo 
+class="MathClass-close">)</mo><tspan baseline-shift="sub"><mo 
+class="MathClass-bin">⊳</mo></tspan><mo 
+class="MathClass-close">)</mo></g> </g>
+ </text> 
+</g>
+ </g>
+  <g transform="translate(-2.92432,0.0)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.92432,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mi 
+mathvariant="bold-script">𝒞</mi> </g> </g>
+ </text> 
+</g>
+ </g>
+ 
+           <g transform="translate(-26.90456,0.0)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(26.90456,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mo 
+class="MathClass-open">(</mo><mi 
+>Δ</mi><tspan baseline-shift="sub"><mn>1</mn></tspan> <mo 
+class="MathClass-bin">×</mo> <mi 
+>Δ</mi><tspan baseline-shift="sub"><mstyle mathvariant="sans-serif"><mi 
+>o</mi><mi 
+>p</mi></mstyle></tspan><mo 
+class="MathClass-close">)</mo><tspan baseline-shift="sub"><mo 
+class="MathClass-bin">⊳</mo></tspan></g> </g>
+ </text> 
+</g>
+ </g>
+                       <g transform="translate(-3.4361,0.0)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.4361,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mi 
+mathvariant="bold-script">ℬ</mi></g> </g>
+ </text> 
+</g>
+ </g>
+ </text> 
+</g>
+ </g>
+ <g stroke-width="0.39998">
+ <path d=" M 57.34213 18.18755 L 93.05406 18.18755  " fill="none"/>
+ <g transform="translate(93.25404,18.18755)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.07988 2.39986 C -1.69989 0.95992 -0.85313 0.27998 0.0 0.0 C -0.85313 -0.27998 -1.69989 -0.95992 -2.07988 -2.39986  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ <g transform="translate(64.17278,22.48474)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(11.2253,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mo 
+class="MathClass-open">(</mo><mi 
+>Q</mi><mo 
+class="MathClass-punc">,</mo><mover accent="false" 
+class="mml-overline"><mrow><mi 
+>q</mi> </mrow><mo 
+accent="true">¯</mo></mover> <tspan baseline-shift="sub"><mi 
+>′</mi> </tspan> <mo 
+class="MathClass-close">)</mo> </g> </g>
+ </text> 
+</g>
+ </g>
+ </g>
+ <g stroke-width="0.39998">
+ <path d=" M -25.74168 6.83234 L -25.74168 -8.92784  " fill="none"/>
+ <g transform="matrix(0.0,1.0,1.0,0.0,-25.74168,6.83234)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linejoin="miter">
+ <g stroke-linecap="round">
+ <path d=" M 0.0 1.95987 C 0.6848 1.95987 1.23993 1.52113 1.23993 0.97993 C 1.23993 0.43874 0.6848 0.0 0.0 0.0  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,-25.74168,-9.12782)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.07988 2.39986 C -1.69989 0.95992 -0.85313 0.27998 0.0 0.0 C -0.85313 -0.27998 -1.69989 -0.95992 -2.07988 -2.39986  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ </g>
+ <g stroke-width="0.39998">
+ <path d=" M 100.88388 11.82782 L 100.88388 -10.23454  " fill="none"/>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,100.88388,-10.43452)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.07988 2.39986 C -1.69989 0.95992 -0.85313 0.27998 0.0 0.0 C -0.85313 -0.27998 -1.69989 -0.95992 -2.07988 -2.39986  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ <g transform="translate(103.23663,-0.22974)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(2.06117,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mi 
+>p</mi> </g> </g>
+ </text> 
+</g>
+ </g>
+ </g>
+ <g stroke-width="0.39998">
+ <g stroke-dasharray="2.79985,1.59991" stroke-dashoffset="0.0">
+ <path d=" M 5.66841 -9.65892 L 93.07018 15.90582  " fill="none"/>
+ <g transform="matrix(0.95973,0.28072,-0.28072,0.95973,93.2621,15.96196)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.07988 2.39986 C -1.69989 0.95992 -0.85313 0.27998 0.0 0.0 C -0.85313 -0.27998 -1.69989 -0.95992 -2.07988 -2.39986  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ <g fill="#fff">
+ <g fill="#fff">
+ <path d=" M 45.52129 -0.48013 h 8.07986 v 7.31943 h -8.07986 Z  " stroke="none"/>
+ </g>
+ <g transform="translate(47.67406,1.67264)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(1.88716,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mi 
+>s</mi> </g> </g>
+ </text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g stroke-width="0.39998">
+ <path d=" M 5.66841 -18.82755 L 92.54228 -18.82755  " fill="none"/>
+ <g transform="translate(92.74226,-18.82755)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.07988 2.39986 C -1.69989 0.95992 -0.85313 0.27998 0.0 0.0 C -0.85313 -0.27998 -1.69989 -0.95992 -2.07988 -2.39986  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ <g transform="translate(27.38449,-26.4303)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(21.92084,0)" text-anchor="middle"  font-size="10"> 
+<g fill="#000">
+ <g stroke="none"> <mo 
+class="MathClass-open">(</mo><mrow><mo fence="true" form="prefix"> </mo><mrow><mi 
+>f</mi> </mrow><mo fence="true" form="postfix">|</mo></mrow><tspan baseline-shift="sub">
+<mo 
+class="MathClass-open">(</mo><mi 
+>Δ</mi><tspan baseline-shift="sub"><mstyle mathvariant="sans-serif"><mi 
+>o</mi><mi 
+>p</mi></mstyle></tspan><mo 
+class="MathClass-close">)</mo><tspan baseline-shift="sub"><mo 
+class="MathClass-bin">⊳</mo></tspan></tspan><mo 
+class="MathClass-close">)</mo><mo 
+class="MathClass-bin">∘</mo><mi 
+>π</mi></g> </g>
+ </text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+                     </g> 
+</svg> 
