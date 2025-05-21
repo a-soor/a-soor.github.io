@@ -31,7 +31,11 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Seminars
 
-- In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with Kate Thomas. 
+- In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with Kate Thomas.
+
+### Miscellaneous writings
+
+[Barr--Beck--Lurie in Families](https://a-soor.github.io/BarrBeckFamilies/BarrBeckFamilies.html)
 
 ### Talks, inc. study group talks (use notes at your own risk).  
 
@@ -110,3 +114,5 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 ### Miscellaneous
 
 Origami: [Lion](https://a-soor.github.io/misc/lion-diagram-fixed.pdf), [Collie](https://a-soor.github.io/misc/302_soor_collie.pdf), [Spiral](https://www.maths.ox.ac.uk/node/39181).
+
+
