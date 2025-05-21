@@ -43,7 +43,7 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - UT Austin Geometry seminar (March 2025), 
 
-- "Gal(\bar{Q}_p/Q_p) as a geometric fundamental group. p-adic geometry study group, Oxford, (March 2025). 
+- "Gal(\bar{Q}_p/Q_p) as a geometric fundamental group. p-adic geometry study group, Oxford, (March 2025). [Notes](https://a-soor/a-soor.github.io/talks/GalE_as_a_geometric_fundamental_group%20(2).pdf)
 
 - "Six-functor formalisms and derived geometry". Warwick Junior Algebraic Geometry Seminar, Warwick (January 2025). 
 
