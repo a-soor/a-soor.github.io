@@ -35,7 +35,15 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Talks, inc. study group talks (use notes at your own risk).  
 
-- Upcoming: UT Austin Geometry seminar (March 2025), U. Michigan GLNT seminar (March 2025), ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpsbach 2025 workshop (June 2025). 
+- Upcoming: ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpsbach 2025 workshop (June 2025), U. Wuppertal Seminar Darstellungstheorie, (June 2025). 
+
+- "Stacky interpretation of D-cap modules". [Algebra seminar](https://www.maths.ox.ac.uk/node/71316), Oxford, (May 2025). 
+
+- U. Michigan GLNT seminar (March 2025)
+
+- UT Austin Geometry seminar (March 2025), 
+
+- "Gal(\bar{Q}_p/Q_p) as a geometric fundamental group. p-adic geometry study group, Oxford, (March 2025). 
 
 - "Six-functor formalisms and derived geometry". Warwick Junior Algebraic Geometry Seminar, Warwick (January 2025). 
 
