@@ -1,0 +1,25 @@
+\begin{thebibliography}{GHK22}
+
+\bibitem[GHK22]{HausgengInftyOperads}
+David Gepner, Rune Haugseng, and Joachim Kock.
+\newblock {$\infty$}-operads as analytic monads.
+\newblock {\em Int. Math. Res. Not. IMRN}, (16):12516--12624, 2022.
+
+\bibitem[Lur09]{HigherToposTheory}
+Jacob Lurie.
+\newblock {\em Higher topos theory}, volume 170 of {\em Annals of Mathematics
+  Studies}.
+\newblock Princeton University Press, Princeton, NJ, 2009.
+
+\bibitem[Lur17]{HigherAlgebra}
+Jacob Lurie.
+\newblock Higher {A}lgebra.
+\newblock Available at \url{https://www.math.ias.edu/~lurie/papers/HA.pdf},
+  2017.
+
+\bibitem[Lur18]{kerodon}
+Jacob Lurie.
+\newblock Kerodon.
+\newblock \url{https://kerodon.net}, 2018.
+
+\end{thebibliography}

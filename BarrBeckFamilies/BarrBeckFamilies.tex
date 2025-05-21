@@ -1,0 +1,166 @@
+\documentclass{article}
+
+
+\addtolength{\oddsidemargin}{-.3in}
+\addtolength{\evensidemargin}{-.3in}
+\addtolength{\textwidth}{0.6in}
+\addtolength{\topmargin}{-.3in}
+\addtolength{\textheight}{0.6in}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm} 
+\usepackage{enumerate}
+\usepackage{color}
+\usepackage{mathdots}
+\usepackage{sectsty}
+
+\usepackage{tikz}
+\usepackage{caption}
+\usepackage{mathtools}
+\usepackage{tikz-cd}
+
+\usepackage{hyperref}
+\hypersetup{hidelinks}
+
+\sectionfont{\scshape\centering\fontsize{12}{14}\selectfont}
+\subsectionfont{\scshape\fontsize{12}{14}\selectfont}
+\usepackage{fancyhdr}
+
+\newcommand\shorttitle{Barr--Beck--Lurie in families}
+\newcommand\authors{Arun Soor}
+
+\fancyhf{}
+\renewcommand\headrulewidth{0pt}
+\fancyhead[C]{%
+\ifodd\value{page}
+  \small\scshape\authors
+\else
+  \small\scshape\shorttitle
+\fi
+}
+\fancyfoot[C]{\thepage}
+
+\pagestyle{fancy}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{proposition}{Proposition}
+\newtheorem{scolium}{Scolium}   %% And a not so common one.
+\newtheorem{definition}{Definition}
+\newenvironment{AMS}{}{}
+\newenvironment{keywords}{}{}
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{rmk}[thm]{Remark}
+\newtheorem{example}[thm]{Example}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{propdef}[thm]{Proposition-Definition}
+\newtheorem{proc}[thm]{Procedure}
+\newtheorem{notations}[thm]{Notations}
+\newtheorem{prob}[thm]{Problem}
+\newtheorem{conjecture}[thm]{Conjecture}
+\newtheorem{claim}{Claim}[thm]
+\newtheorem{princ}[thm]{Principle}
+\newtheorem*{claim*}{Claim}
+\newcommand\eqdef{\stackrel{\mathclap{\normalfont\mbox{def}}}{=}}
+\newcommand*{\sheafhom}{\mathcal{H}\kern -.5pt om}
+\newcommand\mapsfrom{\mathrel{\reflectbox{\ensuremath{\mapsto}}}}
+\DeclareMathOperator{\indlim}{``lim''}
+
+
+\title{\large \bf Barr--Beck--Lurie in families}
+\author{Arun Soor}
+\date{\today}
+\begin{document}
+\maketitle
+\section{Barr--Beck--Lurie in families}
+In this section we present a generalization of the result of \cite[Proposition 4.4.5]{HausgengInftyOperads} which is adapted to our setting.
+
+\begin{prop}\label{prop:BarrBeckFamilies}
+Given a diagram 
+\[
+    % https://q.uiver.app/#q=WzAsMyxbMCwwLCJcXG1hdGhjYWx7Q30iXSxbMiwwLCJcXG1hdGhjYWx7RH0iXSxbMSwxLCJcXG1hdGhjYWx7Qn0iXSxbMCwxLCJVIl0sWzAsMiwicCIsMl0sWzEsMiwicSJdXQ==
+\begin{tikzcd}[cramped]
+	{\mathcal{C}} && {\mathcal{D}} \\
+	& {\mathcal{B}}
+	\arrow["U", from=1-1, to=1-3]
+	\arrow["p"', from=1-1, to=2-2]
+	\arrow["r", from=1-3, to=2-2]
+\end{tikzcd}
+\]
+in $\mathsf{Cat}_{\infty}$ such that:
+\begin{enumerate}[(i)]
+    \item $p$ and $r$ are coCartesian fibrations and $U$ preserves coCartesian edges;
+    \item $U$ has a left adjoint $F: \mathcal{D} \to \mathcal{C}$ such that $pF \simeq r$;
+    \item The adjunction $F \dashv U$ restricts in each fiber to an adjunction $F_b \dashv U_b$. For all $b \in \mathcal{B}$, the functor $U_b$ is conservative, and $\mathcal{C}_b$ admits colimits of $U_b$-split simplicial objects,  which $U_b$ preserves. 
+
+    \item For any edge $e: b \to b^\prime$ in $\mathcal{B}$, the coCartesian covariant transport $e_!: \mathcal{C}_{b} \to \mathcal{C}_{b^\prime}$ preserves geometric realizations of $U_{b}$-split simplicial objects.
+\end{enumerate}
+Then, the adjunction $F \dashv U$ is monadic. 
+\end{prop}
+\begin{rmk}
+In view of the Barr--Beck--Lurie theorem, condition (iii) in Proposition \ref{prop:BarrBeckFamilies} is equivalent to:
+\begin{enumerate}[(i)]
+    \item[(iii)${}^\prime$] The adjunction $F \dashv U$ restricts in each fiber to a monadic adjunction $F_b \dashv U_b$.
+\end{enumerate}
+\end{rmk}
+\begin{proof}[Proof of Proposition \ref{prop:BarrBeckFamilies}.]
+We verify the conditions of the Barr--Beck--Lurie theorem \cite[Theorem 4.7.3.5]{HigherAlgebra}.
+
+First we show that $U$ is conservative. We can argue in exactly the same way as \cite[Proposition 4.4.5]{HausgengInftyOperads}. Suppose that $f: c \to c^\prime$ is a morphism in $\mathcal{C}$ such that $Uf$ is an equivalence in $\mathcal{D}$. Then $e:=qUf \simeq pf$ is an equivalence in $\mathcal{B}$. One can factor $f$ as $c \xrightarrow[]{\varphi} e_!c \xrightarrow[]{f^\prime} c^\prime$ where $\varphi$ is a coCartesian lift of $e$ and $f^\prime$ is a morphism in the fiber $\mathcal{C}_{b^\prime}$ above $b^\prime := p(c^\prime)$. Since $\varphi$ is coCartesian lift of an equivalence, it is an equivalence. Because of the fiberwise monadicity assumption (iii), $f^\prime$ is an equivalence. Therefore $f$ is an equivalence and $U$ is conservative. 
+
+Now we will show that $\mathcal{C}$ admits and $U$ preserves colimits of $U$-split simplicial objects. Let $q: \Delta^{\mathsf{op}} \to \mathcal{C}$ be a $U$-split simplicial object, so that $Uq$ extends to a diagram $\widetilde{Uq}: \Delta^{\mathsf{op}}_{-\infty} \to \mathcal{D}$. Let $f: \Delta^{\mathsf{op}}_{-\infty} \to \mathcal{B}$ be the underlying diagram in $\mathcal{B}$. There is a morphism 
+\begin{equation}
+    \Delta^1  \times \Delta_{-\infty}^{\mathsf{op}}  \to \Delta_{-\infty}^{\mathsf{op}}
+\end{equation}
+which is the identity on $ \{0\} \times \Delta_{-\infty}^{\mathsf{op}}$ and carries $\{1\} \times \Delta_{-\infty}^{\mathsf{op}} $ to $[-1] \in \Delta_{-\infty}^{\mathsf{op}}$. It sends each horizontal morphism $\{0\} \times 
+ [n]\to \{1\}  \times [n] $ to the unique morphism $[n] \to [-1]$.
+Consider the composite 
+\begin{equation}
+   P: \Delta^1  \times \Delta_{-\infty}^{\mathsf{op}}  \to \Delta_{-\infty}^{\mathsf{op}} \xrightarrow[]{f} \mathcal{B}.
+    \end{equation}
+Now we will take a coCartesian lifts, using the exponentiation for coCartesian fibrations \cite[\href{https://kerodon.net/tag/01VG}{Tag 01VG}]{kerodon}. 
+\begin{itemize}
+    \item[$\star$] Let $Q$ be a coCartesian lift of $\left.P\right|_{\Delta^1 \times  \Delta^{\mathsf{op}}}$ to $\mathcal{C}$. Then $Q$ is a natural transformation between $q$ and a morphism $q^\prime: \Delta^{\mathsf{op}} \to \mathcal{C}_b$, where $b$ is the image under $f$ of $[-1] \in \Delta_{-\infty}^{\mathsf{op}} $.
+    \item[$\star$] Let $\widetilde{UQ}$ be a coCartesian lift of $P$ to $\mathcal{D}$. Then $\widetilde{UQ}$ is a natural transformation between $\widetilde{Uq}$ and a morphism $\widetilde{Uq^\prime}: \Delta_{-\infty}^{\mathsf{op}} \to \mathcal{C}_b$.
+\end{itemize}
+These natural transformations $Q$ and $\widetilde{UQ}$ are uniquely characterised by the property that their components are coCartesian edges \cite[\href{https://kerodon.net/tag/01VG}{Tag 01VG}]{kerodon}. Because of the assumption (i) that $U$ preserves coCartesian edges, this unicity implies that $UQ \simeq \left.\widetilde{UQ}\right|_{\Delta^1 \times \Delta^{\mathsf{op}}}$. In particular $U q^\prime: \Delta^{\mathsf{op}} \to \mathcal{C}_b$ extends to the split simplicial object $\widetilde{Uq^\prime}: \Delta^{\mathsf{op}}_{-\infty} \to \mathcal{C}_b$. By the fiberwise monadicity assumption (iii), this implies that $q^\prime$ extends to a colimit diagram $\overline{q}^\prime: (\Delta^{\mathsf{op}})^{\triangleright} \to \mathcal{C}_b$ such that $U\overline{q}^\prime$ is also a colimit diagram. By assumption (iv) and \cite[Proposition 4.3.1.10]{HigherToposTheory} it then follows that $\overline{q}^\prime$ and $U \overline{q}^\prime$, when regarded as diagrams in $\mathcal{C}$ and $\mathcal{D}$ respectively, are $p$-colimit diagrams. Now we can argue as in \cite[Corollary 4.3.1.11]{HigherToposTheory}. We have a commutative diagram
+\[
+% https://q.uiver.app/#q=WzAsNCxbMCwwLCIoXFxEZWx0YV4xIFxcdGltZXMgXFxEZWx0YV5cXG1hdGhzZntvcH0pXFxjb3Byb2Rfe1xcezFcXH0gXFx0aW1lcyBcXERlbHRhXlxcbWF0aHNme29wfX0oXFx7MVxcfVxcdGltZXMgKFxcRGVsdGFeXFxtYXRoc2Z7b3B9KV5cXHRyaWFuZ2xlcmlnaHQpIl0sWzEsMCwiXFxtYXRoY2Fse0N9Il0sWzEsMSwiXFxtYXRoY2Fse0J9Il0sWzAsMSwiKFxcRGVsdGFeXFxtYXRoc2Z7b3B9XFx0aW1lcyBcXERlbHRhXjEpXlxcdHJpYW5nbGVyaWdodCJdLFswLDEsIihRLCBcXG92ZXJsaW5le3F9XlxccHJpbWUpIl0sWzEsMiwicCJdLFswLDMsIiIsMix7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzMsMiwiKFxcbGVmdC5mXFxyaWdodHxfeyhcXERlbHRhXlxcbWF0aHNme29wfSleXFx0cmlhbmdsZXJpZ2h0fSlcXGNpcmNcXHBpIiwyXSxbMywxLCJzIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d
+\begin{tikzcd}[column sep=large]
+	{(\Delta^1 \times \Delta^{\mathsf{op}})\coprod_{\{1\} \times \Delta^{\mathsf{op}}}(\{1\}\times (\Delta^{\mathsf{op}})^\triangleright)} & {\mathcal{C}} \\
+	{(\Delta^1 \times \Delta^{\mathsf{op}} )^\triangleright} & {\mathcal{B}}
+	\arrow["{(Q, \overline{q}^\prime)}", from=1-1, to=1-2]
+	\arrow[hook, from=1-1, to=2-1]
+	\arrow["p", from=1-2, to=2-2]
+	\arrow["s"{description}, dashed, from=2-1, to=1-2]
+	\arrow["{(\left.f\right|_{(\Delta^{\mathsf{op}})^\triangleright})\circ\pi}"', from=2-1, to=2-2]
+\end{tikzcd}
+\]
+in which $\pi: (\Delta^1 \times \Delta^{\mathsf{op
+}})^{\triangleright} \to (\Delta^{\mathsf{op}})^\triangleright = \Delta^{\mathsf{op}}_+ \subseteq \Delta^{\mathsf{op}}_{-\infty}$ denotes the morphism which is the identity on $\{0\} \times \Delta^{\mathsf{op}}$ and which carries $(\{1\} \times \Delta^{\mathsf{op}})^\triangleright$ to the cone point. Because the left map is an inner fibration there exists a lift $s$ as indicated by the dashed arrow. Consider now the map $\Delta^1 \times (\Delta^{\mathsf{op}})^\triangleright \to (\Delta^1 \times \Delta^{\mathsf{op}})^\triangleright$ which is the identity on $\Delta^1 \times \Delta^{\mathsf{op}}$ and carries the other vertices of $ \Delta^1 \times (\Delta^{\mathsf{op}})^\triangleright $ to the cone point. Let $\overline{Q}$ denote the composition
+\begin{equation}
+    \Delta^1 \times (\Delta^{\mathsf{op}})^\triangleright \to (\Delta^1 \times \Delta^{\mathsf{op}})^\triangleright \xrightarrow[]{s} \mathcal{C}
+\end{equation}
+and define $\overline{q}:= \left.\overline{Q}\right|_{\{0\}\times (\Delta^{\mathsf{op}})^\triangleright}$. Then $\overline{Q}$ is a natural transformation from $\overline{q}$ to $\overline{q}^\prime$ which is componentwise coCartesian. Then \cite[Proposition 4.3.1.9]{HigherToposTheory} implies that $\overline{q}$ is a $p$-colimit diagram which fits into the diagram
+\[
+    % https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXERlbHRhXlxcbWF0aHNme29wfSJdLFsxLDAsIlxcbWF0aGNhbHtDfSJdLFswLDEsIihcXERlbHRhXlxcbWF0aHNme29wfSlee1xcdHJpYW5nbGVyaWdodH0iXSxbMSwxLCJcXG1hdGhjYWx7Qn0iXSxbMCwxLCJxIl0sWzAsMiwiIiwwLHsic3R5bGUiOnsidGFpbCI6eyJuYW1lIjoiaG9vayIsInNpZGUiOiJ0b3AifX19XSxbMiwzLCJcXGxlZnQuZlxccmlnaHR8X3soXFxEZWx0YV5cXG1hdGhzZntvcH0pXlxcdHJpYW5nbGVyaWdodH0iLDJdLFsxLDMsInAiXSxbMiwxLCJcXG92ZXJsaW5le3F9IiwxXV0=
+\begin{tikzcd}[cramped,column sep=large]
+	{\Delta^{\mathsf{op}}} & {\mathcal{C}} \\
+	{(\Delta^{\mathsf{op}})^{\triangleright}} & {\mathcal{B}}
+	\arrow["q", from=1-1, to=1-2]
+	\arrow[hook, from=1-1, to=2-1]
+	\arrow["p", from=1-2, to=2-2]
+	\arrow["{\overline{q}}"{description}, from=2-1, to=1-2]
+	\arrow["{\left.f\right|_{(\Delta^{\mathsf{op}})^\triangleright}}"', from=2-1, to=2-2]
+\end{tikzcd}
+\]
+By assumption (i), $U\overline{Q}$ is a natural transformation from  $U\overline{q}$ to $U\overline{q}^\prime$ which is componentwise coCartesian. Hence \cite[Proposition 4.3.1.9]{HigherToposTheory} implies that $U\overline{q}$ is a $p$-colimit diagram. The underlying diagram $\left.f\right|_{(\Delta^{\mathsf{op}})^\triangleright}$ of $\overline{q}$ in $\mathcal{B}$ extends to the split simplicial diagram $f$ and hence admits a colimit in $\mathcal{B}$. Hence \cite[Proposition 4.3.1.5(2)]{HigherToposTheory} implies that $\overline{q}$ and $U\overline{q}$ are colimit diagrams in $\mathcal{C}$ and $\mathcal{D}$ respectively. Hence $\mathcal{C}$ admits and $U$ preserves geometric realizations of $U$-split simplicial objects.
+\end{proof}
+
+\bibliography{references}
+\bibliographystyle{alpha}
+\end{document}
