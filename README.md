@@ -41,7 +41,7 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - U. Wuppertal Seminar Darstellungstheorie, (July 2025).
 
-- ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpsbach 2025 workshop (June 2025).
+- ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpbach 2025 workshop (June 2025).
 
 - "Stacky interpretation of D-cap modules". [Algebra seminar](https://www.maths.ox.ac.uk/node/71316), Oxford, (May 2025). 
 
