@@ -6,14 +6,14 @@ My supervisor is Prof. Konstantin Ardakov.
 
 I am currently in the 4th and final year of my DPhil.
 
-You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated October 2024).
+You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated July 2025).
 
 
 ### Preprints
 
 - A. Soor. A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties, 2024. [arXiv:2409.07592](https://arxiv.org/abs/2409.07592).
 
-- A. Soor. Quasicoherent sheaves for dagger analytic geometry, 2023. [arXiv:2311.03101](https://arxiv.org/abs/2311.03101).
+- A. Soor. Quasicoherent sheaves for dagger analytic geometry, 2023. _To appear in Israel J. Math._ [arXiv:2311.03101](https://arxiv.org/abs/2311.03101).
 
 ### Publications
 
@@ -39,7 +39,9 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Talks, inc. study group talks (use notes at your own risk).  
 
-- Upcoming: ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpsbach 2025 workshop (June 2025), U. Wuppertal Seminar Darstellungstheorie, (June 2025). 
+- U. Wuppertal Seminar Darstellungstheorie, (July 2025).
+
+- ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpsbach 2025 workshop (June 2025).
 
 - "Stacky interpretation of D-cap modules". [Algebra seminar](https://www.maths.ox.ac.uk/node/71316), Oxford, (May 2025). 
 
