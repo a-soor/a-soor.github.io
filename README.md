@@ -1,13 +1,14 @@
 ## Arun Soor's Webpage
 
-I am a DPhil (Maths) student at in the [Mathematical Institute](https://www.maths.ox.ac.uk/), University of Oxford.
+Since August 2025 I am [Donald J. Lewis Research Postdoctoral Assistant Professor](https://lsa.umich.edu/math/people/postdoc-faculty/soor.html) at U. Michigan. 
 
-My supervisor is Prof. Konstantin Ardakov.
-
-I am currently in the 4th and final year of my DPhil.
+Previously (2021-2025) I was a DPhil student at U. Oxford supervised by Prof. Konstantin Ardakov.
 
 You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated July 2025).
 
+### Thesis 
+
+[Here](https://a-soor.github.io/talks/ArunThesisCorrected.pdf) is my DPhil thesis. 
 
 ### Preprints
 
