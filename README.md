@@ -4,7 +4,7 @@ Since August 2025 I am [Donald J. Lewis Research Postdoctoral Assistant Professo
 
 Previously (2021-2025) I was a DPhil student at U. Oxford supervised by Prof. Konstantin Ardakov.
 
-You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated July 2025).
+You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curriculum%20Vitae.pdf). (Last updated September 2025).
 
 ### Thesis 
 
