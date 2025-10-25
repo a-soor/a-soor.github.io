@@ -92,10 +92,10 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 
 ### Teaching
 
-# Michigan 
+#### Michigan 
 - Fall 2025: Instructor for MATH 115 Calculus I (two sections).
 
-# Oxford. From 2022-2025 I was Lecturer II in Mathematics at Magdalen College.
+#### Oxford. From 2022-2025 I was Lecturer II in Mathematics at Magdalen College.
 - HT25: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics.
 - MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry.
 - TT24: College tutorials (Magdalen) for Prelims Constructive Mathematics.
