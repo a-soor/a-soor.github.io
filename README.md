@@ -91,8 +91,11 @@ of random unitary matrices", Oxford junior number theory (March 2022). [Slides](
 symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slides](https://a-soor.github.io//talks/SIAM_MS20_presentation.pdf).
 
 ### Teaching
-[Lecturer II, Magdalen college](https://www.magd.ox.ac.uk/people/mr-arun-soor/)
 
+# Michigan 
+- Fall 2025: Instructor for MATH 115 Calculus I (two sections).
+
+# Oxford. From 2022-2025 I was Lecturer II in Mathematics at Magdalen College.
 - HT25: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics.
 - MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry.
 - TT24: College tutorials (Magdalen) for Prelims Constructive Mathematics.
@@ -104,13 +107,6 @@ symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slid
 - TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
 - HT22: TA for B3.4 Algebraic Number Theory.
 - MT21: TA for B2.1 Introduction to Representation Theory.
-
-### Conferences attended
-
-- [The Automorphic Side of the p-adic Langlands Programme](https://summerschool2023.uni-wuppertal.de/en/) 31 July 2023-4 August 2023, Wuppertal, Germany.
-- [Number theory meets p-adic representations, A conference on the occasion of Peter Schneider’s 70th birthday](https://www.uni-muenster.de/MathematicsMuenster/events/2023/numbertheory.shtml), 13-17 February 2023, Münster, Germany.
-- [Topology and Arithmetic around the Langlands Programme](https://langlands2022.raum-brothers.eu/), 7-11 June 2022, Stockholm University, Stockholm, Sweden.
-- [Arizona Winter School 2022, Automorphic forms beyond GL_2](https://swc-math.github.io/aws/2022/index.html), 5-9 March 2022, University of Arizona, Tucson, Arizona. 
 
 ### Experience
 
