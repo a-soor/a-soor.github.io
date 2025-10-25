@@ -40,6 +40,8 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Talks, inc. study group talks (use notes at your own risk).  
 
+- Iwasawa cohomology. Euler systems learning seminar, Michigan (Oct 2025). [Notes](https://a-soor.github.io/talks/Iwasawa_cohomology.pdf)
+
 - U. Wuppertal Seminar Darstellungstheorie, (July 2025).
 
 - ETHZ-UZh-Sbg Arithmetic and Geometry Research Group Alpbach 2025 workshop (June 2025).
