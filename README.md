@@ -8,7 +8,7 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Thesis 
 
-[Here](https://a-soor.github.io/talks/ArunThesisCorrected.pdf) is my DPhil thesis. 
+[Here](https://ora.ox.ac.uk/objects/uuid:3073bf08-5f39-4f5a-8f16-7e1afddd59a8) is my DPhil thesis. 
 
 ### Preprints
 
