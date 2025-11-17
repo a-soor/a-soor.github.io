@@ -36,10 +36,6 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with Kate Thomas.
 
-### Miscellaneous writings
-
-[Barr--Beck--Lurie in Families](https://a-soor.github.io/BarrBeckFamilies/BarrBeckFamilies.html)
-
 ### Talks, inc. study group talks (use notes at your own risk).  
 
 - Iwasawa cohomology. Euler systems learning seminar, Michigan (Oct 2025). [Notes](https://a-soor.github.io/talks/Iwasawa_cohomology.pdf)
