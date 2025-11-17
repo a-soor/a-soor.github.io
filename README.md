@@ -12,6 +12,8 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Preprints
 
+- A. Soor. D-cap modules are quasi-coherent sheaves on an analytic stack, 2025. [arXiv:2511.07792](https://arxiv.org/abs/2511.07792).
+
 - A. Soor. A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties, 2024. [arXiv:2409.07592](https://arxiv.org/abs/2409.07592).
 
 - A. Soor. Quasicoherent sheaves for dagger analytic geometry, 2023. _To appear in Israel J. Math._ [arXiv:2311.03101](https://arxiv.org/abs/2311.03101).
