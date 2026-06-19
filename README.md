@@ -12,6 +12,8 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Preprints
 
+- A. Soor. Ind-Banach approach to Grothendieck duality in rigid-analytic geometry, 2026. [arXiv:2606.10057](https://arxiv.org/abs/2606.10057). 
+
 - A. Soor. D-cap modules are quasi-coherent sheaves on an analytic stack, 2025. [arXiv:2511.07792](https://arxiv.org/abs/2511.07792).
 
 - A. Soor. A six-functor formalism for quasi-coherent sheaves and crystals on rigid-analytic varieties, 2024. [arXiv:2409.07592](https://arxiv.org/abs/2409.07592).
@@ -32,11 +34,9 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - H. Liu, P. Plucinsky, F. Feng, A. Soor, and R. D. James. [Origami and the structure of materials](https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials). SIAM news January/February 2022.
 
-### Seminars
-
-- In the academic year 2024-2025, I am co-organizing the Oxford Junior Number Theory Seminar, together with Kate Thomas.
-
 ### Talks, inc. study group talks (use notes at your own risk).  
+
+- U. Michigan GLNT seminar (April 2026)
 
 - Iwasawa cohomology. Euler systems learning seminar, Michigan (Oct 2025). [Notes](https://a-soor.github.io/talks/Iwasawa_cohomology.pdf)
 
