@@ -55,7 +55,12 @@ From 2022-2025 I was Lecturer II in Mathematics at Magdalen College.
 
 ### Experience
 
+- From 2023-2025 I was organiser of the [Junior Number Theory Seminar](https://www.maths.ox.ac.uk/events/past/654) at Oxford.
+
+- In 2024 I was an organizer of the [Y-RANT](https://y-rant.github.io/historic/YRANT6/) (Young Researchers in Algebraic Number Theory) conference in Oxford. 
+
 - From 2020-2021 I was the president of the [Invariants](https://www.invariants.org.uk/), Oxford's student maths society.
+
 
 ### Talks, inc. study group talks (use notes at your own risk).  
 
