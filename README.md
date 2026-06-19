@@ -34,6 +34,29 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 - H. Liu, P. Plucinsky, F. Feng, A. Soor, and R. D. James. [Origami and the structure of materials](https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials). SIAM news January/February 2022.
 
+### Teaching
+
+#### Michigan 
+- Fall 2025: Instructor for MATH 115 Calculus I (two sections).
+
+#### Oxford
+From 2022-2025 I was Lecturer II in Mathematics at Magdalen College.
+- HT25: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics.
+- MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry.
+- TT24: College tutorials (Magdalen) for Prelims Constructive Mathematics.
+- HT24: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
+- MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry
+- TT23: College tutorials (Magdalen) for ASO Group theory, ASO Multidimensional Analysis, Prelims Constructive Mathematics
+- HT23: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
+- MT22: College tutorials (Magdalen) for A2 Metric spaces & Complex analysis. TA for C3.6 Modular Forms, TA for B3.1 Galois Theory.
+- TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
+- HT22: TA for B3.4 Algebraic Number Theory.
+- MT21: TA for B2.1 Introduction to Representation Theory.
+
+### Experience
+
+- From 2020-2021 I was the president of the [Invariants](https://www.invariants.org.uk/), Oxford's student maths society.
+
 ### Talks, inc. study group talks (use notes at your own risk).  
 
 - U. Michigan GLNT seminar (April 2026). 
@@ -87,29 +110,6 @@ of random unitary matrices", Oxford junior number theory (March 2022). [Slides](
 
 - "Origami with conformal and helical
 symmetry", a 20-minute talk I gave at the SIAM MS21 conference (May 2021). [Slides](https://a-soor.github.io//talks/SIAM_MS20_presentation.pdf).
-
-### Teaching
-
-#### Michigan 
-- Fall 2025: Instructor for MATH 115 Calculus I (two sections).
-
-#### Oxford
-From 2022-2025 I was Lecturer II in Mathematics at Magdalen College.
-- HT25: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics.
-- MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry.
-- TT24: College tutorials (Magdalen) for Prelims Constructive Mathematics.
-- HT24: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
-- MT24: College tutorials (Magdalen) for A2 Metric Spaces & Complex Analysis, Prelims Geometry
-- TT23: College tutorials (Magdalen) for ASO Group theory, ASO Multidimensional Analysis, Prelims Constructive Mathematics
-- HT23: College tutorials (Magdalen) for A5 Topology, Prelims Dynamics. Tutor for C2.6 Introduction to Schemes.
-- MT22: College tutorials (Magdalen) for A2 Metric spaces & Complex analysis. TA for C3.6 Modular Forms, TA for B3.1 Galois Theory.
-- TT22: College tutorials (Magdalen) for ASO number theory, revision classes for A2 Metric Spaces & Complex Analysis
-- HT22: TA for B3.4 Algebraic Number Theory.
-- MT21: TA for B2.1 Introduction to Representation Theory.
-
-### Experience
-
-- From 2020-2021 I was the president of the [Invariants](https://www.invariants.org.uk/), Oxford's student maths society.
 
 ### Miscellaneous
 
