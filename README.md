@@ -36,7 +36,7 @@ You can find my CV [here](https://a-soor.github.io/talks/Arun%20Soor%20-%20Curri
 
 ### Talks, inc. study group talks (use notes at your own risk).  
 
-- U. Michigan GLNT seminar (April 2026)
+- U. Michigan GLNT seminar (April 2026). 
 
 - Iwasawa cohomology. Euler systems learning seminar, Michigan (Oct 2025). [Notes](https://a-soor.github.io/talks/Iwasawa_cohomology.pdf)
 
